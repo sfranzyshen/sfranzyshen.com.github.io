@@ -1,2 +1,2 @@
-# sfranzyshen.com.github.com
+# sfranzyshen.com
 Scotty Franzyshen Commercial Contracts 
