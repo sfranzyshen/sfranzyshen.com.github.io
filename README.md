@@ -1,3 +1,3 @@
 # sfranzyshen.com
 Scotty Franzyshen Commercial Contracts 
-mailto:info@sfranzyshen.com
+[info@sfranzyshen.com](mailto:info@sfranzyshen.com)
