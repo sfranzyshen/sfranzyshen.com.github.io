@@ -5,3 +5,5 @@ Scotty Franzyshen Commercial Contracts
 Question: What is it that you do?
 
 Answer: Yes.
+
+[![Image of card](/card.jpg)]([(https://github.com/sfranzyshen/sfranzyshen.com.github.io/blob/master/card.jpg)])
